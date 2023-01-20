@@ -5,7 +5,7 @@ There is a tkinter gui for taking the question which is then linked to the backe
 The code for now only works with simple supported beams. 
 
 Other forms of beams such as:
-*cantilever beams 
-*hinge beams 
-*roller supports etc
+* cantilever beams 
+* hinge beams 
+* roller supports etc
 are yet to be incorporated in the code.
